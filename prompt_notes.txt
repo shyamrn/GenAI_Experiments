@@ -1,0 +1,18 @@
+# Six building blocks of prompt
+
+================================Mandatory================================
+1. Task
+    a. One simple task
+    b. Multi task 
+2. Context
+================================Important================================
+3. Exemplar
+================================Nice to have================================
+4. Persona
+5. Format
+6. Tone
+
+================================Order================================
+Persona => Context => Task => Exemplar => Format => Tone 
+
+Persona => Context => Task => Format => Exemplar => Tone 
